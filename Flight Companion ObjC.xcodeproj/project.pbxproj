@@ -1,0 +1,503 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		45605FB8195089A60084A79A /* Flight.m in Sources */ = {isa = PBXBuildFile; fileRef = 45605FB7195089A60084A79A /* Flight.m */; };
+		45605FBF1950C8B50084A79A /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 45605FBE1950C8B50084A79A /* CoreLocation.framework */; };
+		456850EE1951818C0028C26D /* airPortList.plist in Resources */ = {isa = PBXBuildFile; fileRef = 456850ED1951818C0028C26D /* airPortList.plist */; };
+		45B2290619519708005A7925 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 45B2290519519708005A7925 /* InfoPlist.strings */; };
+		45D58DAA194F1AF400695338 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 45D58DA9194F1AF400695338 /* main.m */; };
+		45D58DAD194F1AF400695338 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 45D58DAC194F1AF400695338 /* AppDelegate.m */; };
+		45D58DB0194F1AF400695338 /* Flight_Companion_ObjC.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 45D58DAE194F1AF400695338 /* Flight_Companion_ObjC.xcdatamodeld */; };
+		45D58DB2194F1AF400695338 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 45D58DB1194F1AF400695338 /* Images.xcassets */; };
+		45D58DBE194F1AF400695338 /* Flight_Companion_ObjCTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 45D58DBD194F1AF400695338 /* Flight_Companion_ObjCTests.m */; };
+		45D58DCB194F2F5400695338 /* CounterController.m in Sources */ = {isa = PBXBuildFile; fileRef = 45D58DCA194F2F5400695338 /* CounterController.m */; };
+		45D58DD5194F40F400695338 /* list.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D58DD1194F40F400695338 /* list.png */; };
+		45D58DD6194F40F400695338 /* list@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D58DD2194F40F400695338 /* list@2x.png */; };
+		45D58DDB194F41EA00695338 /* timer.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D58DD9194F41EA00695338 /* timer.png */; };
+		45D58DDC194F41EA00695338 /* timer@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D58DDA194F41EA00695338 /* timer@2x.png */; };
+		45D58DDF194F4C0000695338 /* FlightListController.m in Sources */ = {isa = PBXBuildFile; fileRef = 45D58DDE194F4C0000695338 /* FlightListController.m */; };
+		45EF77D7194F726D00580D1D /* currentCounter.plist in Resources */ = {isa = PBXBuildFile; fileRef = 45EF77D6194F726D00580D1D /* currentCounter.plist */; };
+		45EF77DA194F9E8400580D1D /* AirPortListController.m in Sources */ = {isa = PBXBuildFile; fileRef = 45EF77D9194F9E8400580D1D /* AirPortListController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		45D58DB8194F1AF400695338 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 45D58D9C194F1AF400695338 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 45D58DA3194F1AF400695338;
+			remoteInfo = "Flight Companion ObjC";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		45605FB6195089A60084A79A /* Flight.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Flight.h; sourceTree = "<group>"; };
+		45605FB7195089A60084A79A /* Flight.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Flight.m; sourceTree = "<group>"; };
+		45605FBE1950C8B50084A79A /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		456850ED1951818C0028C26D /* airPortList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = airPortList.plist; sourceTree = "<group>"; };
+		45B2290519519708005A7925 /* InfoPlist.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = InfoPlist.strings; sourceTree = "<group>"; };
+		45D58DA4194F1AF400695338 /* Flight Companion ObjC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Flight Companion ObjC.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		45D58DA8194F1AF400695338 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		45D58DA9194F1AF400695338 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		45D58DAB194F1AF400695338 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		45D58DAC194F1AF400695338 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		45D58DAF194F1AF400695338 /* Flight_Companion_ObjC.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Flight_Companion_ObjC.xcdatamodel; sourceTree = "<group>"; };
+		45D58DB1194F1AF400695338 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		45D58DB7194F1AF400695338 /* Flight Companion ObjCTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Flight Companion ObjCTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		45D58DBC194F1AF400695338 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		45D58DBD194F1AF400695338 /* Flight_Companion_ObjCTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Flight_Companion_ObjCTests.m; sourceTree = "<group>"; };
+		45D58DC9194F2F5400695338 /* CounterController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CounterController.h; sourceTree = "<group>"; };
+		45D58DCA194F2F5400695338 /* CounterController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CounterController.m; sourceTree = "<group>"; };
+		45D58DD1194F40F400695338 /* list.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = list.png; sourceTree = "<group>"; };
+		45D58DD2194F40F400695338 /* list@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "list@2x.png"; sourceTree = "<group>"; };
+		45D58DD9194F41EA00695338 /* timer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = timer.png; sourceTree = "<group>"; };
+		45D58DDA194F41EA00695338 /* timer@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "timer@2x.png"; sourceTree = "<group>"; };
+		45D58DDD194F4C0000695338 /* FlightListController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FlightListController.h; sourceTree = "<group>"; };
+		45D58DDE194F4C0000695338 /* FlightListController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FlightListController.m; sourceTree = "<group>"; };
+		45EF77D6194F726D00580D1D /* currentCounter.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = currentCounter.plist; sourceTree = "<group>"; };
+		45EF77D8194F9E8400580D1D /* AirPortListController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AirPortListController.h; sourceTree = "<group>"; };
+		45EF77D9194F9E8400580D1D /* AirPortListController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AirPortListController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		45D58DA1194F1AF400695338 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				45605FBF1950C8B50084A79A /* CoreLocation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		45D58DB4194F1AF400695338 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		45605FB9195089B60084A79A /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				45D58DAE194F1AF400695338 /* Flight_Companion_ObjC.xcdatamodeld */,
+				45605FB6195089A60084A79A /* Flight.h */,
+				45605FB7195089A60084A79A /* Flight.m */,
+			);
+			name = Data;
+			sourceTree = "<group>";
+		};
+		45D58D9B194F1AF400695338 = {
+			isa = PBXGroup;
+			children = (
+				45605FBE1950C8B50084A79A /* CoreLocation.framework */,
+				45D58DD0194F40E100695338 /* Resources */,
+				45D58DA6194F1AF400695338 /* Flight Companion ObjC */,
+				45D58DBA194F1AF400695338 /* Flight Companion ObjCTests */,
+				45D58DA5194F1AF400695338 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		45D58DA5194F1AF400695338 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				45D58DA4194F1AF400695338 /* Flight Companion ObjC.app */,
+				45D58DB7194F1AF400695338 /* Flight Companion ObjCTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		45D58DA6194F1AF400695338 /* Flight Companion ObjC */ = {
+			isa = PBXGroup;
+			children = (
+				45D58DAB194F1AF400695338 /* AppDelegate.h */,
+				45D58DAC194F1AF400695338 /* AppDelegate.m */,
+				45D58DB1194F1AF400695338 /* Images.xcassets */,
+				45605FB9195089B60084A79A /* Data */,
+				45D58DCF194F401300695338 /* Controller */,
+				45D58DA7194F1AF400695338 /* Supporting Files */,
+			);
+			path = "Flight Companion ObjC";
+			sourceTree = "<group>";
+		};
+		45D58DA7194F1AF400695338 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				45D58DA8194F1AF400695338 /* Info.plist */,
+				45D58DA9194F1AF400695338 /* main.m */,
+				45B2290519519708005A7925 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		45D58DBA194F1AF400695338 /* Flight Companion ObjCTests */ = {
+			isa = PBXGroup;
+			children = (
+				45D58DBD194F1AF400695338 /* Flight_Companion_ObjCTests.m */,
+				45D58DBB194F1AF400695338 /* Supporting Files */,
+			);
+			path = "Flight Companion ObjCTests";
+			sourceTree = "<group>";
+		};
+		45D58DBB194F1AF400695338 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				45D58DBC194F1AF400695338 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		45D58DCF194F401300695338 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				45D58DC9194F2F5400695338 /* CounterController.h */,
+				45D58DCA194F2F5400695338 /* CounterController.m */,
+				45D58DDD194F4C0000695338 /* FlightListController.h */,
+				45D58DDE194F4C0000695338 /* FlightListController.m */,
+				45EF77D8194F9E8400580D1D /* AirPortListController.h */,
+				45EF77D9194F9E8400580D1D /* AirPortListController.m */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		45D58DD0194F40E100695338 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				45D58DD1194F40F400695338 /* list.png */,
+				45D58DD2194F40F400695338 /* list@2x.png */,
+				45D58DD9194F41EA00695338 /* timer.png */,
+				45D58DDA194F41EA00695338 /* timer@2x.png */,
+				45EF77D6194F726D00580D1D /* currentCounter.plist */,
+				456850ED1951818C0028C26D /* airPortList.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		45D58DA3194F1AF400695338 /* Flight Companion ObjC */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 45D58DC1194F1AF400695338 /* Build configuration list for PBXNativeTarget "Flight Companion ObjC" */;
+			buildPhases = (
+				45D58DA0194F1AF400695338 /* Sources */,
+				45D58DA1194F1AF400695338 /* Frameworks */,
+				45D58DA2194F1AF400695338 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Flight Companion ObjC";
+			productName = "Flight Companion ObjC";
+			productReference = 45D58DA4194F1AF400695338 /* Flight Companion ObjC.app */;
+			productType = "com.apple.product-type.application";
+		};
+		45D58DB6194F1AF400695338 /* Flight Companion ObjCTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 45D58DC4194F1AF400695338 /* Build configuration list for PBXNativeTarget "Flight Companion ObjCTests" */;
+			buildPhases = (
+				45D58DB3194F1AF400695338 /* Sources */,
+				45D58DB4194F1AF400695338 /* Frameworks */,
+				45D58DB5194F1AF400695338 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				45D58DB9194F1AF400695338 /* PBXTargetDependency */,
+			);
+			name = "Flight Companion ObjCTests";
+			productName = "Flight Companion ObjCTests";
+			productReference = 45D58DB7194F1AF400695338 /* Flight Companion ObjCTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		45D58D9C194F1AF400695338 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0600;
+				ORGANIZATIONNAME = Simiux;
+				TargetAttributes = {
+					45D58DA3194F1AF400695338 = {
+						CreatedOnToolsVersion = 6.0;
+						DevelopmentTeam = X4PSHJRA2X;
+					};
+					45D58DB6194F1AF400695338 = {
+						CreatedOnToolsVersion = 6.0;
+						TestTargetID = 45D58DA3194F1AF400695338;
+					};
+				};
+			};
+			buildConfigurationList = 45D58D9F194F1AF400695338 /* Build configuration list for PBXProject "Flight Companion ObjC" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 45D58D9B194F1AF400695338;
+			productRefGroup = 45D58DA5194F1AF400695338 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				45D58DA3194F1AF400695338 /* Flight Companion ObjC */,
+				45D58DB6194F1AF400695338 /* Flight Companion ObjCTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		45D58DA2194F1AF400695338 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				45D58DB2194F1AF400695338 /* Images.xcassets in Resources */,
+				45B2290619519708005A7925 /* InfoPlist.strings in Resources */,
+				45D58DDB194F41EA00695338 /* timer.png in Resources */,
+				45D58DD6194F40F400695338 /* list@2x.png in Resources */,
+				45D58DD5194F40F400695338 /* list.png in Resources */,
+				456850EE1951818C0028C26D /* airPortList.plist in Resources */,
+				45D58DDC194F41EA00695338 /* timer@2x.png in Resources */,
+				45EF77D7194F726D00580D1D /* currentCounter.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		45D58DB5194F1AF400695338 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		45D58DA0194F1AF400695338 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				45D58DB0194F1AF400695338 /* Flight_Companion_ObjC.xcdatamodeld in Sources */,
+				45D58DDF194F4C0000695338 /* FlightListController.m in Sources */,
+				45D58DAD194F1AF400695338 /* AppDelegate.m in Sources */,
+				45EF77DA194F9E8400580D1D /* AirPortListController.m in Sources */,
+				45605FB8195089A60084A79A /* Flight.m in Sources */,
+				45D58DCB194F2F5400695338 /* CounterController.m in Sources */,
+				45D58DAA194F1AF400695338 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		45D58DB3194F1AF400695338 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				45D58DBE194F1AF400695338 /* Flight_Companion_ObjCTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		45D58DB9194F1AF400695338 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 45D58DA3194F1AF400695338 /* Flight Companion ObjC */;
+			targetProxy = 45D58DB8194F1AF400695338 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		45D58DBF194F1AF400695338 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				METAL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		45D58DC0194F1AF400695338 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				METAL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		45D58DC2194F1AF400695338 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				INFOPLIST_FILE = "Flight Companion ObjC/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		45D58DC3194F1AF400695338 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				INFOPLIST_FILE = "Flight Companion ObjC/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		45D58DC5194F1AF400695338 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Flight Companion ObjC.app/Flight Companion ObjC";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Flight Companion ObjCTests/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				METAL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+			};
+			name = Debug;
+		};
+		45D58DC6194F1AF400695338 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Flight Companion ObjC.app/Flight Companion ObjC";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Flight Companion ObjCTests/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				METAL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		45D58D9F194F1AF400695338 /* Build configuration list for PBXProject "Flight Companion ObjC" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				45D58DBF194F1AF400695338 /* Debug */,
+				45D58DC0194F1AF400695338 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		45D58DC1194F1AF400695338 /* Build configuration list for PBXNativeTarget "Flight Companion ObjC" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				45D58DC2194F1AF400695338 /* Debug */,
+				45D58DC3194F1AF400695338 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		45D58DC4194F1AF400695338 /* Build configuration list for PBXNativeTarget "Flight Companion ObjCTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				45D58DC5194F1AF400695338 /* Debug */,
+				45D58DC6194F1AF400695338 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		45D58DAE194F1AF400695338 /* Flight_Companion_ObjC.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				45D58DAF194F1AF400695338 /* Flight_Companion_ObjC.xcdatamodel */,
+			);
+			currentVersion = 45D58DAF194F1AF400695338 /* Flight_Companion_ObjC.xcdatamodel */;
+			path = Flight_Companion_ObjC.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 45D58D9C194F1AF400695338 /* Project object */;
+}
