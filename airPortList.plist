@@ -1,0 +1,5804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icao</key>
+		<string>LFAB</string>
+		<key>nom</key>
+		<string>LFAB - Aerodrome de Dieppe - Saint-Aubin</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.8825</string>
+			<key>longitude</key>
+			<string> 1.08527777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFAC</string>
+		<key>nom</key>
+		<string>LFAC - Aeroport de Calais - Dunkerque</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 50.9608333333</string>
+			<key>longitude</key>
+			<string> 1.95138888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFAD</string>
+		<key>nom</key>
+		<string>LFAD - Aerodrome de Compiegne - Margny</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.4344444444</string>
+			<key>longitude</key>
+			<string> 2.80611111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFAE</string>
+		<key>nom</key>
+		<string>LFAE - Aerodrome d'Eu - Mers - Le Treport</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 50.0691666667</string>
+			<key>longitude</key>
+			<string> 1.42666666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFAF</string>
+		<key>nom</key>
+		<string>LFAF - Aerodrome de Laon - Chambry</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.5958333333</string>
+			<key>longitude</key>
+			<string> 3.63166666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFAG</string>
+		<key>nom</key>
+		<string>LFAG - Aeroport de Peronne - Saint-Quentin</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.8688888889</string>
+			<key>longitude</key>
+			<string> 3.02972222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFAI</string>
+		<key>nom</key>
+		<string>LFAI - Aeroport de Nangis Les Loges</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.5958333333</string>
+			<key>longitude</key>
+			<string> 3.01416666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFAJ</string>
+		<key>nom</key>
+		<string>LFAJ - Aeroport d'Argentan</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.7105555556</string>
+			<key>longitude</key>
+			<string> 0.00388888888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFAK</string>
+		<key>nom</key>
+		<string>LFAK - Aerodrome de Dunkerque - Les Moeres</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 51.0405555556</string>
+			<key>longitude</key>
+			<string> 2.55027777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFAL</string>
+		<key>nom</key>
+		<string>LFAL - Aerodrome de La Fleche - Thoree-les-Pins</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.6941666667</string>
+			<key>longitude</key>
+			<string> 0.00333333333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFAM</string>
+		<key>nom</key>
+		<string>LFAM - Aeroport de Berck sur Mer</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 50.4230555556</string>
+			<key>longitude</key>
+			<string> 1.59194444444</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFAO</string>
+		<key>nom</key>
+		<string>LFAO - Aeroport de Bagnoles-de-l'Orne - Couterne</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.5455555556</string>
+			<key>longitude</key>
+			<string> 0.383611111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFAP</string>
+		<key>nom</key>
+		<string>LFAP - Aerodrome de Rethel - Perthes</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.4819444444</string>
+			<key>longitude</key>
+			<string> 4.36472222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFAQ</string>
+		<key>nom</key>
+		<string>LFAQ - Aerodrome d'Albert - Bray</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.9725</string>
+			<key>longitude</key>
+			<string> 2.69138888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFAR</string>
+		<key>nom</key>
+		<string>LFAR - Aerodrome de Montdidier</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.6730555556</string>
+			<key>longitude</key>
+			<string> 2.56916666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFAS</string>
+		<key>nom</key>
+		<string>LFAS - Aerodrome de Falaise Mont d'Eraines</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.9272222222</string>
+			<key>longitude</key>
+			<string> 0.144722222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFAT</string>
+		<key>nom</key>
+		<string>LFAT - Aeroport du Touquet Cote d'Opale</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 50.5147222222</string>
+			<key>longitude</key>
+			<string> 1.6275</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFAU</string>
+		<key>nom</key>
+		<string>LFAU - Aerodrome de Vauville</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.6241666667</string>
+			<key>longitude</key>
+			<string> 1.82916666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFAV</string>
+		<key>nom</key>
+		<string>LFAV - Aeroport de Valenciennes - Denain</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 50.3247222222</string>
+			<key>longitude</key>
+			<string> 3.46555555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFAW</string>
+		<key>nom</key>
+		<string>LFAW - Aerodrome de Villerupt</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.4113888889</string>
+			<key>longitude</key>
+			<string> 5.89055555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFAX</string>
+		<key>nom</key>
+		<string>LFAX - Aeroport de Mortagne au Perche</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.5402777778</string>
+			<key>longitude</key>
+			<string> 0.533888888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFAY</string>
+		<key>nom</key>
+		<string>LFAY - Aeroport d'Amiens - Glisy</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.8730555556</string>
+			<key>longitude</key>
+			<string> 2.38694444444</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFBA</string>
+		<key>nom</key>
+		<string>LFBA - Aeroport Agen - La Garenne</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.1747222222</string>
+			<key>longitude</key>
+			<string> 0.590555555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFBC</string>
+		<key>nom</key>
+		<string>LFBC - Base aerienne de Cazaux</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.5347222222</string>
+			<key>longitude</key>
+			<string> 1.13138888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFBD</string>
+		<key>nom</key>
+		<string>LFBD - Aeroport de Bordeaux - Merignac</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.8286111111</string>
+			<key>longitude</key>
+			<string> 0.715277777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFBE</string>
+		<key>nom</key>
+		<string>LFBE - Aeroport Bergerac - Roumaniere</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.8244444444</string>
+			<key>longitude</key>
+			<string> 0.520555555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFBF</string>
+		<key>nom</key>
+		<string>LFBF - Aeroport de Francazal - Toulouse</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.5488888889</string>
+			<key>longitude</key>
+			<string> 1.35722222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFBG</string>
+		<key>nom</key>
+		<string>LFBG - Base aerienne 709 Cognac - Chateaubernard</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.6583333333</string>
+			<key>longitude</key>
+			<string> 0.3175</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFBH</string>
+		<key>nom</key>
+		<string>LFBH - Aeroport de La Rochelle - Ile de Re</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.1791666667</string>
+			<key>longitude</key>
+			<string> 1.19527777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFBI</string>
+		<key>nom</key>
+		<string>LFBI - Aeroport de Poitiers - Biard</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.5875</string>
+			<key>longitude</key>
+			<string> 0.306666666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFBJ</string>
+		<key>nom</key>
+		<string>LFBJ - Aeroport de Saint-Junien Maryse Bastie</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.9033333333</string>
+			<key>longitude</key>
+			<string> 0.92</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFBK</string>
+		<key>nom</key>
+		<string>LFBK - Aeroport de Montlucon Gueret</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.2261111111</string>
+			<key>longitude</key>
+			<string> 2.36277777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFBL</string>
+		<key>nom</key>
+		<string>LFBL - Aeroport de Limoges Bellegarde</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.8608333333</string>
+			<key>longitude</key>
+			<string> 1.18027777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFBM</string>
+		<key>nom</key>
+		<string>LFBM - Base aerienne 118 Mont de Marsan</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.9125</string>
+			<key>longitude</key>
+			<string> 0.508611111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFBN</string>
+		<key>nom</key>
+		<string>LFBN - Aerodrome de Niort Souche</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.3133333333</string>
+			<key>longitude</key>
+			<string> 0.394444444444</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFBO</string>
+		<key>nom</key>
+		<string>LFBO - Aeroport Toulouse Blagnac</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.635</string>
+			<key>longitude</key>
+			<string> 1.36777777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFBP</string>
+		<key>nom</key>
+		<string>LFBP - Aeroport Pau Pyrenees</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.38</string>
+			<key>longitude</key>
+			<string> 0.418611111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFBR</string>
+		<key>nom</key>
+		<string>LFBR - Aerodrome de Muret - Lherm</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.4491666667</string>
+			<key>longitude</key>
+			<string> 1.26361111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFBS</string>
+		<key>nom</key>
+		<string>LFBS - Aeroport de Biscarrosse - Parentis</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.3694444444</string>
+			<key>longitude</key>
+			<string> 1.13055555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFBT</string>
+		<key>nom</key>
+		<string>LFBT - Aeroport de Tarbes Lourdes Pyrenees</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.1855555556</string>
+			<key>longitude</key>
+			<string> 0.00277777777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFBU</string>
+		<key>nom</key>
+		<string>LFBU - Aeroport international Angouleme - Cognac</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.7294444444</string>
+			<key>longitude</key>
+			<string> 0.219166666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFBX</string>
+		<key>nom</key>
+		<string>LFBX - Aeroport Perigueux Bassillac</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.1975</string>
+			<key>longitude</key>
+			<string> 0.814166666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFBY</string>
+		<key>nom</key>
+		<string>LFBY - Aeroport de Dax - Seyresse</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.6891666667</string>
+			<key>longitude</key>
+			<string> 1.06888888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFBZ</string>
+		<key>nom</key>
+		<string>LFBZ - Aeroport de Biarritz Bayonne Anglet (BBA)</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.4683333333</string>
+			<key>longitude</key>
+			<string> 1.53111111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFCA</string>
+		<key>nom</key>
+		<string>LFCA - Aeroport de Chatellerault Targe</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.7813888889</string>
+			<key>longitude</key>
+			<string> 0.551944444444</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFCB</string>
+		<key>nom</key>
+		<string>LFCB - Aeroport de Bagneres de Luchon</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 42.8</string>
+			<key>longitude</key>
+			<string> 0.6</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFCC</string>
+		<key>nom</key>
+		<string>LFCC - Aeroport de Cahors - Lalbenque</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.3505555556</string>
+			<key>longitude</key>
+			<string> 1.47861111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFCD</string>
+		<key>nom</key>
+		<string>LFCD - Aeroport d'Andernos les Bains</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.7561111111</string>
+			<key>longitude</key>
+			<string> 1.06333333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFCE</string>
+		<key>nom</key>
+		<string>LFCE - Aeroport de Gueret - Saint-Laurent</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.1755555556</string>
+			<key>longitude</key>
+			<string> 1.95305555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFCF</string>
+		<key>nom</key>
+		<string>LFCF - Aerodrome de Figeac - Livernon</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.6733333333</string>
+			<key>longitude</key>
+			<string> 1.78916666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFCG</string>
+		<key>nom</key>
+		<string>LFCG - Aerodrome de Saint-Girons - Antichan</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.0088888889</string>
+			<key>longitude</key>
+			<string> 1.10444444444</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFCH</string>
+		<key>nom</key>
+		<string>LFCH - Aeroport d'Arcachon - La Teste-de-Buch</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.5986111111</string>
+			<key>longitude</key>
+			<string> 1.11472222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFCI</string>
+		<key>nom</key>
+		<string>LFCI - Aerodrome d'Albi - Le Sequestre</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.9133333333</string>
+			<key>longitude</key>
+			<string> 2.11666666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFCJ</string>
+		<key>nom</key>
+		<string>LFCJ - Aeroport de Jonzac - Neulles</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.4841666667</string>
+			<key>longitude</key>
+			<string> 0.421388888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFCK</string>
+		<key>nom</key>
+		<string>LFCK - Aeroport de Castres - Mazamet</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.555</string>
+			<key>longitude</key>
+			<string> 2.29055555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFCL</string>
+		<key>nom</key>
+		<string>LFCL - Aeroport de Toulouse - Lasbordes</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.5888888889</string>
+			<key>longitude</key>
+			<string> 1.49972222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFCM</string>
+		<key>nom</key>
+		<string>LFCM - Aerodrome de Millau Larzac</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.9891666667</string>
+			<key>longitude</key>
+			<string> 3.18333333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFCN</string>
+		<key>nom</key>
+		<string>LFCN - Aeroport de Nogaro</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.7697222222</string>
+			<key>longitude</key>
+			<string> 0.0327777777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFCO</string>
+		<key>nom</key>
+		<string>LFCO - Aeroport d'Oloron - Herrere</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.1647222222</string>
+			<key>longitude</key>
+			<string> 0.560277777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFCP</string>
+		<key>nom</key>
+		<string>LFCP - Aeroport de Pons - Avy</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.57</string>
+			<key>longitude</key>
+			<string> 0.515</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFCQ</string>
+		<key>nom</key>
+		<string>LFCQ - Aeroport de Graulhet - Montdragon</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.77</string>
+			<key>longitude</key>
+			<string> 2.00888888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFCR</string>
+		<key>nom</key>
+		<string>LFCR - Aeroport de Rodez - Marcillac</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.4075</string>
+			<key>longitude</key>
+			<string> 2.48333333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFCS</string>
+		<key>nom</key>
+		<string>LFCS - Aeroport de Bordeaux - Leognan - Saucats</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.7002777778</string>
+			<key>longitude</key>
+			<string> 0.595555555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFCT</string>
+		<key>nom</key>
+		<string>LFCT - Aeroport de Thouars</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.9619444444</string>
+			<key>longitude</key>
+			<string> 0.152777777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFCU</string>
+		<key>nom</key>
+		<string>LFCU - Aerodrome d'Ussel - Thalamy</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.5369444444</string>
+			<key>longitude</key>
+			<string> 2.42555555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFCV</string>
+		<key>nom</key>
+		<string>LFCV - Aeroport de Villefranche de Rouergue</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.37</string>
+			<key>longitude</key>
+			<string> 2.02805555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFCW</string>
+		<key>nom</key>
+		<string>LFCW - Aeroport de Villeneuve sur Lot</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.4002777778</string>
+			<key>longitude</key>
+			<string> 0.761111111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFCX</string>
+		<key>nom</key>
+		<string>LFCX - Aeroport de Castelsarrasin - Moissac</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.0869444444</string>
+			<key>longitude</key>
+			<string> 1.12833333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFCY</string>
+		<key>nom</key>
+		<string>LFCY - Aerodrome de Royan - Medis</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.6311111111</string>
+			<key>longitude</key>
+			<string> 0.975555555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFCZ</string>
+		<key>nom</key>
+		<string>LFCZ - Aeroport de Mimizan</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.1469444444</string>
+			<key>longitude</key>
+			<string> 1.16333333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFDA</string>
+		<key>nom</key>
+		<string>LFDA - Aeroport d'Aire sur l'Adour</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.7094444444</string>
+			<key>longitude</key>
+			<string> 0.245277777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFDB</string>
+		<key>nom</key>
+		<string>LFDB - Aeroport de Montauban</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.0275</string>
+			<key>longitude</key>
+			<string> 1.37833333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFDC</string>
+		<key>nom</key>
+		<string>LFDC - Aeroport de Montendre - Marcillac</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.2744444444</string>
+			<key>longitude</key>
+			<string> 0.452222222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFDE</string>
+		<key>nom</key>
+		<string>LFDE - Aeroport d'egletons</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.4213888889</string>
+			<key>longitude</key>
+			<string> 2.06888888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFDF</string>
+		<key>nom</key>
+		<string>LFDF - Aeroport de Sainte-Foy la Grande</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.8536111111</string>
+			<key>longitude</key>
+			<string> 0.176666666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFDG</string>
+		<key>nom</key>
+		<string>LFDG - Aeroport de Gaillac - Lisle -sur-Tarn</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.8838888889</string>
+			<key>longitude</key>
+			<string> 1.87555555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFDH</string>
+		<key>nom</key>
+		<string>LFDH - Aeroport d'Auch Lamothe</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.6869444444</string>
+			<key>longitude</key>
+			<string> 0.6</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFDI</string>
+		<key>nom</key>
+		<string>LFDI - Aerodrome de Libourne - Artigues-de-Lussac</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.985</string>
+			<key>longitude</key>
+			<string> 0.133611111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFDJ</string>
+		<key>nom</key>
+		<string>LFDJ - Aerodrome de Pamiers - Les Pujols</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.0905555556</string>
+			<key>longitude</key>
+			<string> 1.69583333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFDK</string>
+		<key>nom</key>
+		<string>LFDK - Aeroport de Soulac sur Mer</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.495</string>
+			<key>longitude</key>
+			<string> 1.08222222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFDL</string>
+		<key>nom</key>
+		<string>LFDL - Aeroport de Loudun</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.0372222222</string>
+			<key>longitude</key>
+			<string> 0.101388888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFDM</string>
+		<key>nom</key>
+		<string>LFDM - Aeroport de Marmande - Virazeil</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.5011111111</string>
+			<key>longitude</key>
+			<string> 0.1975</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFDN</string>
+		<key>nom</key>
+		<string>LFDN - Aeroport de Rochefort - Saint-Agnant</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.8894444444</string>
+			<key>longitude</key>
+			<string> 0.9825</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFDP</string>
+		<key>nom</key>
+		<string>LFDP - Aeroport de Saint-Pierre d'Oleron</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.9591666667</string>
+			<key>longitude</key>
+			<string> 1.31611111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFDQ</string>
+		<key>nom</key>
+		<string>LFDQ - Aerodrome de Castelnau Magnoac</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.2794444444</string>
+			<key>longitude</key>
+			<string> 0.521666666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFDR</string>
+		<key>nom</key>
+		<string>LFDR - Aeroport de La Reole - Floudes</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.5680555556</string>
+			<key>longitude</key>
+			<string> 0.0561111111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFDS</string>
+		<key>nom</key>
+		<string>LFDS - Aeroport de Sarlat - Domme</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.7933333333</string>
+			<key>longitude</key>
+			<string> 1.24472222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFDT</string>
+		<key>nom</key>
+		<string>LFDT - Aerodrome de Tarbes - Laloubere</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.2161111111</string>
+			<key>longitude</key>
+			<string> 0.0786111111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFDU</string>
+		<key>nom</key>
+		<string>LFDU - Aeroport de Lesparre - Saint-Laurent de Medoc</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.1977777778</string>
+			<key>longitude</key>
+			<string> 0.882222222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFDV</string>
+		<key>nom</key>
+		<string>LFDV - Aeroport de Couhe Verac</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.2727777778</string>
+			<key>longitude</key>
+			<string> 0.190555555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFDW</string>
+		<key>nom</key>
+		<string>LFDW - Aeroport de Chauvigny</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.5836111111</string>
+			<key>longitude</key>
+			<string> 0.6425</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFDX</string>
+		<key>nom</key>
+		<string>LFDX - Aeroport de Fumel - Montayral</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.4636111111</string>
+			<key>longitude</key>
+			<string> 1.00777777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFDY</string>
+		<key>nom</key>
+		<string>LFDY - Aerodrome de Bordeaux - Yvrac</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.8772222222</string>
+			<key>longitude</key>
+			<string> 0.479166666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFDZ</string>
+		<key>nom</key>
+		<string>LFDZ - Aeroport Condat sur Vezere</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 0.0</string>
+			<key>longitude</key>
+			<string> 0.0</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFEA</string>
+		<key>nom</key>
+		<string>LFEA - Aeroport de Belle Ile</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.3266666667</string>
+			<key>longitude</key>
+			<string> 3.18416666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFEB</string>
+		<key>nom</key>
+		<string>LFEB - Aeroport de Dinan - Trelivan</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.4444444444</string>
+			<key>longitude</key>
+			<string> 2.10138888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFEC</string>
+		<key>nom</key>
+		<string>LFEC - Aeroport d'Ouessant</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.4641666667</string>
+			<key>longitude</key>
+			<string> 5.06222222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFED</string>
+		<key>nom</key>
+		<string>LFED - Aeroport de Pontivy</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.0577777778</string>
+			<key>longitude</key>
+			<string> 2.9225</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFEF</string>
+		<key>nom</key>
+		<string>LFEF - Aeroport d'Amboise - Dierre</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.3413888889</string>
+			<key>longitude</key>
+			<string> 0.9425</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFEG</string>
+		<key>nom</key>
+		<string>LFEG - Aeroport d'Argenton sur Creuse</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.5969444444</string>
+			<key>longitude</key>
+			<string> 1.6025</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFEH</string>
+		<key>nom</key>
+		<string>LFEH - Aerodrome d'Aubigny sur Nere</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.4805555556</string>
+			<key>longitude</key>
+			<string> 2.39416666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFEI</string>
+		<key>nom</key>
+		<string>LFEI - Aeroport de Briare Chatillon</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.6144444444</string>
+			<key>longitude</key>
+			<string> 2.78194444444</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFEJ</string>
+		<key>nom</key>
+		<string>LFEJ - Aeroport de Chateauroux - Villers</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.8419444444</string>
+			<key>longitude</key>
+			<string> 1.62111111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFEK</string>
+		<key>nom</key>
+		<string>LFEK - Aeroport d'Issoudun Le Fay</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.8886111111</string>
+			<key>longitude</key>
+			<string> 2.04138888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFEL</string>
+		<key>nom</key>
+		<string>LFEL - Aeroport du Blanc</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.6208333333</string>
+			<key>longitude</key>
+			<string> 1.0875</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFEM</string>
+		<key>nom</key>
+		<string>LFEM - Aeroport de Montargis - Vimory</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.9605555556</string>
+			<key>longitude</key>
+			<string> 2.68583333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFEN</string>
+		<key>nom</key>
+		<string>LFEN - Aeroport de Tours - Sorigny</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.2675</string>
+			<key>longitude</key>
+			<string> 0.701111111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFEP</string>
+		<key>nom</key>
+		<string>LFEP - Aerodrome de Pouilly - Maconge</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.2213888889</string>
+			<key>longitude</key>
+			<string> 4.56111111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFEQ</string>
+		<key>nom</key>
+		<string>LFEQ - Aeroport de Quiberon</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.4822222222</string>
+			<key>longitude</key>
+			<string> 3.1</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFER</string>
+		<key>nom</key>
+		<string>LFER - Aeroport de Redon - Bains-sur-Oust</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.6994444444</string>
+			<key>longitude</key>
+			<string> 2.03666666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFES</string>
+		<key>nom</key>
+		<string>LFES - Aeroport de Guiscriff - Scaer</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.0547222222</string>
+			<key>longitude</key>
+			<string> 3.66277777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFET</string>
+		<key>nom</key>
+		<string>LFET - Aeroport de Til Chatel</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.5475</string>
+			<key>longitude</key>
+			<string> 5.21194444444</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFEU</string>
+		<key>nom</key>
+		<string>LFEU - Aeroport de Bar-le-Duc - Les Hauts-de-Chee</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.8683333333</string>
+			<key>longitude</key>
+			<string> 5.18583333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFEV</string>
+		<key>nom</key>
+		<string>LFEV - Aerodrome de Gray - Saint-Adrien</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.4333333333</string>
+			<key>longitude</key>
+			<string> 5.62277777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFEW</string>
+		<key>nom</key>
+		<string>LFEW - Aeroport de Saulieu - Liernais</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.2394444444</string>
+			<key>longitude</key>
+			<string> 4.26583333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFEX</string>
+		<key>nom</key>
+		<string>LFEX - Aerodrome de Nancy - Azelot</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.5927777778</string>
+			<key>longitude</key>
+			<string> 6.24111111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFEY</string>
+		<key>nom</key>
+		<string>LFEY - Aeroport de l'Ile d'Yeu</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.7186111111</string>
+			<key>longitude</key>
+			<string> 2.39111111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFEZ</string>
+		<key>nom</key>
+		<string>LFEZ - Aerodrome de Nancy - Malzeville</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.7244444444</string>
+			<key>longitude</key>
+			<string> 6.20777777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFFB</string>
+		<key>nom</key>
+		<string>LFFB - Aerodrome de Buno - Bonnevaux</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.3511111111</string>
+			<key>longitude</key>
+			<string> 2.42555555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFFC</string>
+		<key>nom</key>
+		<string>LFFC - Aerodrome de Mantes - Cherence</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.0788888889</string>
+			<key>longitude</key>
+			<string> 1.68972222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFFD</string>
+		<key>nom</key>
+		<string>LFFD - Aerodrome de Saint-Andre de l'Eure</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.8986111111</string>
+			<key>longitude</key>
+			<string> 1.25055555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFFE</string>
+		<key>nom</key>
+		<string>LFFE - Aerodrome d'Enghien - Moisselles</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.0463888889</string>
+			<key>longitude</key>
+			<string> 2.35305555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFFG</string>
+		<key>nom</key>
+		<string>LFFG - Aerodrome de La Ferte-Gaucher</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.7558333333</string>
+			<key>longitude</key>
+			<string> 3.27666666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFFH</string>
+		<key>nom</key>
+		<string>LFFH - Aerodrome de Chateau-Thierry - Belleau</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.0672222222</string>
+			<key>longitude</key>
+			<string> 3.35694444444</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFFI</string>
+		<key>nom</key>
+		<string>LFFI - Aeroport d'Ancenis</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.4080555556</string>
+			<key>longitude</key>
+			<string> 1.1775</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFFJ</string>
+		<key>nom</key>
+		<string>LFFJ - Aerodrome de Joinville - Mussey</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.3861111111</string>
+			<key>longitude</key>
+			<string> 5.145</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFFK</string>
+		<key>nom</key>
+		<string>LFFK - Aeroport de Fontenay le Comte</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.4413888889</string>
+			<key>longitude</key>
+			<string> 0.792777777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFFL</string>
+		<key>nom</key>
+		<string>LFFL - Aerodrome de Bailleau - Armenonville</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.5158333333</string>
+			<key>longitude</key>
+			<string> 1.64</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFFM</string>
+		<key>nom</key>
+		<string>LFFM - Aerodrome de Lamotte Beuvron</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 0.0</string>
+			<key>longitude</key>
+			<string> 0.0</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFFN</string>
+		<key>nom</key>
+		<string>LFFN - Aeroport de Brienne le Chateau</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.4308333333</string>
+			<key>longitude</key>
+			<string> 4.4825</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFFP</string>
+		<key>nom</key>
+		<string>LFFP - Aerodrome de Pithiviers</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.1572222222</string>
+			<key>longitude</key>
+			<string> 2.1925</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFFQ</string>
+		<key>nom</key>
+		<string>LFFQ - Aerodrome de La Ferte Alais</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.4977777778</string>
+			<key>longitude</key>
+			<string> 2.34333333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFFR</string>
+		<key>nom</key>
+		<string>LFFR - Aerodrome de Bar sur Seine</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.0669444444</string>
+			<key>longitude</key>
+			<string> 4.41361111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFFT</string>
+		<key>nom</key>
+		<string>LFFT - Aerodrome de Neufchateau Rouceux</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.3616666667</string>
+			<key>longitude</key>
+			<string> 5.72027777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFFU</string>
+		<key>nom</key>
+		<string>LFFU - Aerodrome de Chateauneuf sur Cher</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.8711111111</string>
+			<key>longitude</key>
+			<string> 2.37694444444</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFFV</string>
+		<key>nom</key>
+		<string>LFFV - Aerodrome de Vierzon - Mereau</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.1947222222</string>
+			<key>longitude</key>
+			<string> 2.06666666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFFW</string>
+		<key>nom</key>
+		<string>LFFW - Aeroport de Montaigu - Saint-Georges</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.9330555556</string>
+			<key>longitude</key>
+			<string> 1.32555555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFFX</string>
+		<key>nom</key>
+		<string>LFFX - Aerodrome de Tournus - Cuisery</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.5627777778</string>
+			<key>longitude</key>
+			<string> 4.97666666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFFY</string>
+		<key>nom</key>
+		<string>LFFY - Aerodrome d'etrepagny</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.3061111111</string>
+			<key>longitude</key>
+			<string> 1.63861111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFFZ</string>
+		<key>nom</key>
+		<string>LFFZ - Aeroport de Sezanne - Saint-Remy</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.7105555556</string>
+			<key>longitude</key>
+			<string> 3.76416666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFGA</string>
+		<key>nom</key>
+		<string>LFGA - Aerodrome de Colmar - Houssen</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.1102777778</string>
+			<key>longitude</key>
+			<string> 7.35916666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFGB</string>
+		<key>nom</key>
+		<string>LFGB - Aerodrome de Mulhouse - Habsheim</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.7380555556</string>
+			<key>longitude</key>
+			<string> 7.43222222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFGC</string>
+		<key>nom</key>
+		<string>LFGC - Aerodrome de Strasbourg - Neuhof</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.5544444444</string>
+			<key>longitude</key>
+			<string> 7.77805555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFGD</string>
+		<key>nom</key>
+		<string>LFGD - Aerodrome d'Arbois</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.8533333333</string>
+			<key>longitude</key>
+			<string> 5.76</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFGE</string>
+		<key>nom</key>
+		<string>LFGE - Aeroport d'Avallon</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.5030555556</string>
+			<key>longitude</key>
+			<string> 3.89944444444</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFGF</string>
+		<key>nom</key>
+		<string>LFGF - Aeroport de Beaune Challanges</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.0111111111</string>
+			<key>longitude</key>
+			<string> 4.8975</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFGG</string>
+		<key>nom</key>
+		<string>LFGG - Aeroport de Belfort - Chaux</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.7022222222</string>
+			<key>longitude</key>
+			<string> 6.8325</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFGH</string>
+		<key>nom</key>
+		<string>LFGH - Aeroport de Cosne sur Loire</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.3605555556</string>
+			<key>longitude</key>
+			<string> 2.91944444444</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFGI</string>
+		<key>nom</key>
+		<string>LFGI - Aeroport de Dijon - Darois</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.3869444444</string>
+			<key>longitude</key>
+			<string> 4.94805555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFGJ</string>
+		<key>nom</key>
+		<string>LFGJ - Aeroport de Dole - Tavaux</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.0427777778</string>
+			<key>longitude</key>
+			<string> 5.435</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFGK</string>
+		<key>nom</key>
+		<string>LFGK - Aeroport de Joigny</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.995</string>
+			<key>longitude</key>
+			<string> 3.39194444444</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFGL</string>
+		<key>nom</key>
+		<string>LFGL - Aeroport de Lons-le-Saunier - Courlaoux</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.6761111111</string>
+			<key>longitude</key>
+			<string> 5.47111111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFGM</string>
+		<key>nom</key>
+		<string>LFGM - Aeroport de Montceau-les-Mines - Pouilloux</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.6041666667</string>
+			<key>longitude</key>
+			<string> 4.33388888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFGN</string>
+		<key>nom</key>
+		<string>LFGN - Aeroport de Paray le Monial</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.4677777778</string>
+			<key>longitude</key>
+			<string> 4.135</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFGO</string>
+		<key>nom</key>
+		<string>LFGO - Aeroport de Pont sur Yonne</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.2905555556</string>
+			<key>longitude</key>
+			<string> 3.25083333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFGP</string>
+		<key>nom</key>
+		<string>LFGP - Aeroport de Saint-Florentin - Cheu</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.9822222222</string>
+			<key>longitude</key>
+			<string> 3.77833333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFGQ</string>
+		<key>nom</key>
+		<string>LFGQ - Aeroport de Semur en Auxois</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.4819444444</string>
+			<key>longitude</key>
+			<string> 4.34416666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFGR</string>
+		<key>nom</key>
+		<string>LFGR - Aeroport de Doncourt les Conflans</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.1527777778</string>
+			<key>longitude</key>
+			<string> 5.93277777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFGS</string>
+		<key>nom</key>
+		<string>LFGS - Aeroport de Longuyon - Villette</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.4844444444</string>
+			<key>longitude</key>
+			<string> 5.57277777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFGT</string>
+		<key>nom</key>
+		<string>LFGT - Aeroport de Sarrebourg - Buhl</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.7188888889</string>
+			<key>longitude</key>
+			<string> 7.07944444444</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFGU</string>
+		<key>nom</key>
+		<string>LFGU - Aeroport de Sarreguemines Neunkirch</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.1280555556</string>
+			<key>longitude</key>
+			<string> 7.10833333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFGV</string>
+		<key>nom</key>
+		<string>LFGV - Aeroport de Thionville - Yutz</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 0.0</string>
+			<key>longitude</key>
+			<string> 0.0</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFGW</string>
+		<key>nom</key>
+		<string>LFGW - Aerodrome de Verdun Le Rozelier</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.1222222222</string>
+			<key>longitude</key>
+			<string> 5.47083333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFGX</string>
+		<key>nom</key>
+		<string>LFGX - Aerodrome de Champagnole - Crotenay</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.7644444444</string>
+			<key>longitude</key>
+			<string> 5.82083333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFGY</string>
+		<key>nom</key>
+		<string>LFGY - Aerodrome de Saint-Die - Remomeix</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.2672222222</string>
+			<key>longitude</key>
+			<string> 7.00861111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFGZ</string>
+		<key>nom</key>
+		<string>LFGZ - Aerodrome de Nuits Saint-Georges</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.1430555556</string>
+			<key>longitude</key>
+			<string> 4.96916666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFHA</string>
+		<key>nom</key>
+		<string>LFHA - Aeroport d'Issoire - Le Broc</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.515</string>
+			<key>longitude</key>
+			<string> 3.2675</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFHC</string>
+		<key>nom</key>
+		<string>LFHC - Aerodrome de Perouges - Meximieux</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.8697222222</string>
+			<key>longitude</key>
+			<string> 5.18722222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFHD</string>
+		<key>nom</key>
+		<string>LFHD - Aeroport de Pierrelatte</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.3988888889</string>
+			<key>longitude</key>
+			<string> 4.71805555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFHE</string>
+		<key>nom</key>
+		<string>LFHE - Aeroport de Romans - Saint-Paul</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.0661111111</string>
+			<key>longitude</key>
+			<string> 5.10333333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFHF</string>
+		<key>nom</key>
+		<string>LFHF - Aerodrome de Ruoms</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.4452777778</string>
+			<key>longitude</key>
+			<string> 4.33388888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFHG</string>
+		<key>nom</key>
+		<string>LFHG - Aerodrome de Saint-Chamond - L'Horme</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.4930555556</string>
+			<key>longitude</key>
+			<string> 4.53555555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFHH</string>
+		<key>nom</key>
+		<string>LFHH - Aeroport de Vienne Reventin</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.4641666667</string>
+			<key>longitude</key>
+			<string> 4.82944444444</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFHI</string>
+		<key>nom</key>
+		<string>LFHI - Aerodrome de Morestel</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.6877777778</string>
+			<key>longitude</key>
+			<string> 5.45361111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFHJ</string>
+		<key>nom</key>
+		<string>LFHJ - Aerodrome de Lyon - Corbas</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.6541666667</string>
+			<key>longitude</key>
+			<string> 4.91361111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFHL</string>
+		<key>nom</key>
+		<string>LFHL - Aeroport de Langogne - Lesperon</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.7063888889</string>
+			<key>longitude</key>
+			<string> 3.88833333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFHM</string>
+		<key>nom</key>
+		<string>LFHM - Aerodrome de Megeve</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.8208333333</string>
+			<key>longitude</key>
+			<string> 6.65222222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFHN</string>
+		<key>nom</key>
+		<string>LFHN - Aerodrome de Bellegarde Vouvray</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.1241666667</string>
+			<key>longitude</key>
+			<string> 5.80611111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFHO</string>
+		<key>nom</key>
+		<string>LFHO - Aeroport d'Aubenas Ardeche meridionale</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.5394444444</string>
+			<key>longitude</key>
+			<string> 4.37166666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFHP</string>
+		<key>nom</key>
+		<string>LFHP - Aeroport du Puy - Loudes</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.0805555556</string>
+			<key>longitude</key>
+			<string> 3.76472222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFHQ</string>
+		<key>nom</key>
+		<string>LFHQ - Aeroport de Saint-Flour - Coltines</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.075</string>
+			<key>longitude</key>
+			<string> 2.9925</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFHR</string>
+		<key>nom</key>
+		<string>LFHR - Aeroport de Brioude - Beaumont</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.325</string>
+			<key>longitude</key>
+			<string> 3.35916666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFHS</string>
+		<key>nom</key>
+		<string>LFHS - Aerodrome de Bourg - Ceyzeriat</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.2055555556</string>
+			<key>longitude</key>
+			<string> 5.29166666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFHT</string>
+		<key>nom</key>
+		<string>LFHT - Aeroport d'Ambert Le Poyet</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.5169444444</string>
+			<key>longitude</key>
+			<string> 3.74638888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFHU</string>
+		<key>nom</key>
+		<string>LFHU - Altiport de l'Alpe d'Huez</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.0883333333</string>
+			<key>longitude</key>
+			<string> 6.08472222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFHV</string>
+		<key>nom</key>
+		<string>LFHV - Aeroport de Villefranche - Tarare</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.92</string>
+			<key>longitude</key>
+			<string> 4.635</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFHW</string>
+		<key>nom</key>
+		<string>LFHW - Aerodrome de Belleville - Villie-Morgon</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.1427777778</string>
+			<key>longitude</key>
+			<string> 4.71472222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFHX</string>
+		<key>nom</key>
+		<string>LFHX - Aerodrome de Lapalisse - Perigny</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.2538888889</string>
+			<key>longitude</key>
+			<string> 3.58861111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFHY</string>
+		<key>nom</key>
+		<string>LFHY - Aerodrome de Moulins - Montbeugny</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.5344444444</string>
+			<key>longitude</key>
+			<string> 3.42166666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFHZ</string>
+		<key>nom</key>
+		<string>LFHZ - Aerodrome de Sallanches Mont Blanc</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.9538888889</string>
+			<key>longitude</key>
+			<string> 6.63916666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFIB</string>
+		<key>nom</key>
+		<string>LFIB - Aerodrome de Belves - Saint-Pardoux</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.7825</string>
+			<key>longitude</key>
+			<string> 0.958888888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFID</string>
+		<key>nom</key>
+		<string>LFID - Aeroport de Condom - Valence-sur-Baise</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.9102777778</string>
+			<key>longitude</key>
+			<string> 0.387222222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFIF</string>
+		<key>nom</key>
+		<string>LFIF - Aerodrome de Saint-Affrique - Belmont</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.8241666667</string>
+			<key>longitude</key>
+			<string> 2.74861111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFIG</string>
+		<key>nom</key>
+		<string>LFIG - Aerodrome de Cassagnes - Begonhes</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.1794444444</string>
+			<key>longitude</key>
+			<string> 2.51861111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFIH</string>
+		<key>nom</key>
+		<string>LFIH - Aeroport de Chalais</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.2680555556</string>
+			<key>longitude</key>
+			<string> 0.0169444444444</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFIK</string>
+		<key>nom</key>
+		<string>LFIK - Aerodrome de Riberac - Saint-Aulaye</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.2402777778</string>
+			<key>longitude</key>
+			<string> 0.266944444444</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFIL</string>
+		<key>nom</key>
+		<string>LFIL - Aerodrome de Rion des Landes</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.9158333333</string>
+			<key>longitude</key>
+			<string> 0.949166666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFIM</string>
+		<key>nom</key>
+		<string>LFIM - Aeroport de Saint-Gaudens - Montrejeau</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.1086111111</string>
+			<key>longitude</key>
+			<string> 0.620277777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFIP</string>
+		<key>nom</key>
+		<string>LFIP - Aerodrome de Peyresourde - Balestas</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 42.7969444444</string>
+			<key>longitude</key>
+			<string> 0.435555555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFIR</string>
+		<key>nom</key>
+		<string>LFIR - Aerodrome de Revel - Montgey</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.4813888889</string>
+			<key>longitude</key>
+			<string> 1.98</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFIT</string>
+		<key>nom</key>
+		<string>LFIT - Aerodrome de Toulouse - Bourg Saint-Bernard</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.6122222222</string>
+			<key>longitude</key>
+			<string> 1.72527777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFIV</string>
+		<key>nom</key>
+		<string>LFIV - Aerodrome de Vendays - Montalivet</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.3805555556</string>
+			<key>longitude</key>
+			<string> 1.11583333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFIX</string>
+		<key>nom</key>
+		<string>LFIX - Aerodrome d'Itxassou</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.3375</string>
+			<key>longitude</key>
+			<string> 1.42222222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFIY</string>
+		<key>nom</key>
+		<string>LFIY - Aerodrome de Saint-Jean d'Angely - Saint-Denis du Pin</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.9663888889</string>
+			<key>longitude</key>
+			<string> 0.525277777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFJA</string>
+		<key>nom</key>
+		<string>LFJA - Aerodrome de Chaumont - Semoutiers</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.0916666667</string>
+			<key>longitude</key>
+			<string> 5.05</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFJB</string>
+		<key>nom</key>
+		<string>LFJB - Aeroport de Mauleon</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.9038888889</string>
+			<key>longitude</key>
+			<string> 0.696388888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFJC</string>
+		<key>nom</key>
+		<string>LFJC - Aeroport de Clamecy</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.4383333333</string>
+			<key>longitude</key>
+			<string> 3.50861111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFJD</string>
+		<key>nom</key>
+		<string>LFJD - Aerodrome de Corlier</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.0397222222</string>
+			<key>longitude</key>
+			<string> 5.49694444444</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFJE</string>
+		<key>nom</key>
+		<string>LFJE - Aerodrome de La Motte Chalancon</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.4997222222</string>
+			<key>longitude</key>
+			<string> 5.40333333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFJF</string>
+		<key>nom</key>
+		<string>LFJF - Aerodrome d'Aubenasson</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.6963888889</string>
+			<key>longitude</key>
+			<string> 5.15472222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFJH</string>
+		<key>nom</key>
+		<string>LFJH - Aerodrome de Cazeres - Palaminy</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.2022222222</string>
+			<key>longitude</key>
+			<string> 1.05111111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFJI</string>
+		<key>nom</key>
+		<string>LFJI - Aerodrome de Marennes</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.8238888889</string>
+			<key>longitude</key>
+			<string> 1.07722222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFJL</string>
+		<key>nom</key>
+		<string>LFJL - Aeroport Metz Nancy Lorraine</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.9783333333</string>
+			<key>longitude</key>
+			<string> 6.24666666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFJR</string>
+		<key>nom</key>
+		<string>LFJR - Angers Loire Aeroport</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.5602777778</string>
+			<key>longitude</key>
+			<string> 0.312222222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFJS</string>
+		<key>nom</key>
+		<string>LFJS - Aeroport de Soissons - Courmelles</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.3458333333</string>
+			<key>longitude</key>
+			<string> 3.28416666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFJT</string>
+		<key>nom</key>
+		<string>LFJT - Aerodrome de Tours - Le Louroux</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.15</string>
+			<key>longitude</key>
+			<string> 0.712777777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFJU</string>
+		<key>nom</key>
+		<string>LFJU - Aerodrome de Lurcy - Levis</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.7127777778</string>
+			<key>longitude</key>
+			<string> 2.94611111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFJY</string>
+		<key>nom</key>
+		<string>LFJY - Chambley-Bussieres Air Base</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.0255555556</string>
+			<key>longitude</key>
+			<string> 5.87611111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFKA</string>
+		<key>nom</key>
+		<string>LFKA - Aerodrome d'Albertville</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.6272222222</string>
+			<key>longitude</key>
+			<string> 6.32972222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFKB</string>
+		<key>nom</key>
+		<string>LFKB - Aeroport de Bastia Poretta</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 42.55</string>
+			<key>longitude</key>
+			<string> 9.48472222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFKC</string>
+		<key>nom</key>
+		<string>LFKC - Aeroport de Calvi Sainte-Catherine</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 42.5202777778</string>
+			<key>longitude</key>
+			<string> 8.79305555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFKD</string>
+		<key>nom</key>
+		<string>LFKD - Aerodrome de Sollieres - Sardieres</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.2563888889</string>
+			<key>longitude</key>
+			<string> 6.80138888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFKE</string>
+		<key>nom</key>
+		<string>LFKE - Aerodrome de Saint-Jean en Royans</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.0277777778</string>
+			<key>longitude</key>
+			<string> 5.31</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFKF</string>
+		<key>nom</key>
+		<string>LFKF - Aeroport de Figari Sud Corse</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 41.5022222222</string>
+			<key>longitude</key>
+			<string> 9.09666666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFKG</string>
+		<key>nom</key>
+		<string>LFKG - Aerodrome de Ghisonaccia Alzitone</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 42.055</string>
+			<key>longitude</key>
+			<string> 9.40194444444</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFKH</string>
+		<key>nom</key>
+		<string>LFKH - Aerodrome de Saint-Jean d'Avelanne</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.5166666667</string>
+			<key>longitude</key>
+			<string> 5.68055555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFKJ</string>
+		<key>nom</key>
+		<string>LFKJ - Aeroport d'Ajaccio Napoleon Bonaparte</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 41.9238888889</string>
+			<key>longitude</key>
+			<string> 8.8025</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFKL</string>
+		<key>nom</key>
+		<string>LFKL - Aerodrome de Lyon - Brindas</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.7116666667</string>
+			<key>longitude</key>
+			<string> 4.69777777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFKM</string>
+		<key>nom</key>
+		<string>LFKM - Aerodrome de Saint-Galmier</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.6072222222</string>
+			<key>longitude</key>
+			<string> 4.30583333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFKO</string>
+		<key>nom</key>
+		<string>LFKO - Aerodrome de Propriano</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 41.6613888889</string>
+			<key>longitude</key>
+			<string> 8.895</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFKP</string>
+		<key>nom</key>
+		<string>LFKP - Aerodrome de La Tour-du-Pin - Cessieu</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.5572222222</string>
+			<key>longitude</key>
+			<string> 5.38472222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFKR</string>
+		<key>nom</key>
+		<string>LFKR - Aerodrome de Saint-Remy de Maurienne</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 0.0</string>
+			<key>longitude</key>
+			<string> 0.0</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFKS</string>
+		<key>nom</key>
+		<string>LFKS - Base aerienne 126 de Solenzara</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 41.9261111111</string>
+			<key>longitude</key>
+			<string> 9.40527777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFKT</string>
+		<key>nom</key>
+		<string>LFKT - Aerodrome de Corte</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 42.2908333333</string>
+			<key>longitude</key>
+			<string> 9.19388888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFKX</string>
+		<key>nom</key>
+		<string>LFKX - Aerodrome de Meribel</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.4069444444</string>
+			<key>longitude</key>
+			<string> 6.58055555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFKY</string>
+		<key>nom</key>
+		<string>LFKY - Aerodrome de Belley - Peyrieu</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.695</string>
+			<key>longitude</key>
+			<string> 5.69277777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFLA</string>
+		<key>nom</key>
+		<string>LFLA - Aeroport d'Auxerre - Branches</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.8463888889</string>
+			<key>longitude</key>
+			<string> 3.49666666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFLB</string>
+		<key>nom</key>
+		<string>LFLB - Aeroport de Chambery - Savoie</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.6391666667</string>
+			<key>longitude</key>
+			<string> 5.88</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFLC</string>
+		<key>nom</key>
+		<string>LFLC - Aeroport de Clermont-Ferrand Auvergne</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.7858333333</string>
+			<key>longitude</key>
+			<string> 3.1625</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFLD</string>
+		<key>nom</key>
+		<string>LFLD - Aeroport de Bourges</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.0644444444</string>
+			<key>longitude</key>
+			<string> 2.37888888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFLE</string>
+		<key>nom</key>
+		<string>LFLE - Aeroport de Chambery - Challes-les-Eaux</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.5613888889</string>
+			<key>longitude</key>
+			<string> 5.97694444444</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFLG</string>
+		<key>nom</key>
+		<string>LFLG - Aerodrome de Grenoble - Le Versoud</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.2191666667</string>
+			<key>longitude</key>
+			<string> 5.84972222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFLH</string>
+		<key>nom</key>
+		<string>LFLH - Aeroport de Chalon - Champforgeuil</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.8283333333</string>
+			<key>longitude</key>
+			<string> 4.81694444444</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFLI</string>
+		<key>nom</key>
+		<string>LFLI - Aerodrome d'Annemasse</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.1919444444</string>
+			<key>longitude</key>
+			<string> 6.26944444444</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFLJ</string>
+		<key>nom</key>
+		<string>LFLJ - Aerodrome de Courchevel</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.3966666667</string>
+			<key>longitude</key>
+			<string> 6.63361111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFLK</string>
+		<key>nom</key>
+		<string>LFLK - Aerodrome d'Oyonnax - Arbent</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.2791666667</string>
+			<key>longitude</key>
+			<string> 5.6675</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFLL</string>
+		<key>nom</key>
+		<string>LFLL - Aeroport Lyon Saint-Exupery</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.7255555556</string>
+			<key>longitude</key>
+			<string> 5.08111111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFLM</string>
+		<key>nom</key>
+		<string>LFLM - Aeroport de Macon - Charnay</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.2958333333</string>
+			<key>longitude</key>
+			<string> 4.79583333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFLN</string>
+		<key>nom</key>
+		<string>LFLN - Aeroport de Saint-Yan</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.4063888889</string>
+			<key>longitude</key>
+			<string> 4.02111111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFLO</string>
+		<key>nom</key>
+		<string>LFLO - Aeroport de Roanne - Renaison</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.0527777778</string>
+			<key>longitude</key>
+			<string> 3.99972222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFLP</string>
+		<key>nom</key>
+		<string>LFLP - Aeroport d'Annecy Haute-Savoie Mont Blanc</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.9308333333</string>
+			<key>longitude</key>
+			<string> 6.10638888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFLQ</string>
+		<key>nom</key>
+		<string>LFLQ - Aeroport de Montelimar - Ancone</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.5836111111</string>
+			<key>longitude</key>
+			<string> 4.74055555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFLR</string>
+		<key>nom</key>
+		<string>LFLR - Aeroport de Saint-Rambert d'Albon</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.2561111111</string>
+			<key>longitude</key>
+			<string> 4.82583333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFLS</string>
+		<key>nom</key>
+		<string>LFLS - Aeroport International de Grenoble Isere</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.3630555556</string>
+			<key>longitude</key>
+			<string> 5.33277777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFLT</string>
+		<key>nom</key>
+		<string>LFLT - Aerodrome de Montlucon - Domerat</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.3536111111</string>
+			<key>longitude</key>
+			<string> 2.57222222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFLU</string>
+		<key>nom</key>
+		<string>LFLU - Aeroport de Valence - Chabeuil</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.9155555556</string>
+			<key>longitude</key>
+			<string> 4.96861111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFLV</string>
+		<key>nom</key>
+		<string>LFLV - Aeroport de Vichy - Charmeil</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.1716666667</string>
+			<key>longitude</key>
+			<string> 3.40416666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFLW</string>
+		<key>nom</key>
+		<string>LFLW - Aeroport d'Aurillac</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.8975</string>
+			<key>longitude</key>
+			<string> 2.41666666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFLX</string>
+		<key>nom</key>
+		<string>LFLX - Aeroport de Chateauroux - Deols</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.8602777778</string>
+			<key>longitude</key>
+			<string> 1.72111111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFLY</string>
+		<key>nom</key>
+		<string>LFLY - Aeroport de Lyon Bron</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.7294444444</string>
+			<key>longitude</key>
+			<string> 4.93888888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFLZ</string>
+		<key>nom</key>
+		<string>LFLZ - Aerodrome de Feurs - Chambeon</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.7036111111</string>
+			<key>longitude</key>
+			<string> 4.20111111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFMA</string>
+		<key>nom</key>
+		<string>LFMA - Aeroport d'Aix Les Milles</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.5016666667</string>
+			<key>longitude</key>
+			<string> 5.37083333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFMC</string>
+		<key>nom</key>
+		<string>LFMC - Aeroport du Luc - Le Cannet</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.3847222222</string>
+			<key>longitude</key>
+			<string> 6.38694444444</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFMD</string>
+		<key>nom</key>
+		<string>LFMD - Aeroport de Cannes - Mandelieu</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.5475</string>
+			<key>longitude</key>
+			<string> 6.95527777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFME</string>
+		<key>nom</key>
+		<string>LFME - Aeroport de NImes Courbessac</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.8538888889</string>
+			<key>longitude</key>
+			<string> 4.41361111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFMF</string>
+		<key>nom</key>
+		<string>LFMF - Aerodrome de Fayence</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.6061111111</string>
+			<key>longitude</key>
+			<string> 6.70277777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFMG</string>
+		<key>nom</key>
+		<string>LFMG - Aerodrome de Montagne Noire</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.4075</string>
+			<key>longitude</key>
+			<string> 1.99027777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFMH</string>
+		<key>nom</key>
+		<string>LFMH - Aeroport de Saint-etienne - Boutheon</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.5341666667</string>
+			<key>longitude</key>
+			<string> 4.29722222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFMI</string>
+		<key>nom</key>
+		<string>LFMI - Base aerienne 125 d'Istres - Le Tube</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.5225</string>
+			<key>longitude</key>
+			<string> 4.92416666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFMK</string>
+		<key>nom</key>
+		<string>LFMK - Aeroport de Carcassonne Salvaza</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.2158333333</string>
+			<key>longitude</key>
+			<string> 2.30861111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFML</string>
+		<key>nom</key>
+		<string>LFML - Aeroport de Marseille Provence</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.4366666667</string>
+			<key>longitude</key>
+			<string> 5.215</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFMN</string>
+		<key>nom</key>
+		<string>LFMN - Aeroport Nice Cote d'Azur</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.6652777778</string>
+			<key>longitude</key>
+			<string> 7.215</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFMO</string>
+		<key>nom</key>
+		<string>LFMO - Base aerienne 115 d'Orange Caritat</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.14</string>
+			<key>longitude</key>
+			<string> 4.86527777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFMP</string>
+		<key>nom</key>
+		<string>LFMP - Aeroport de Perpignan - Rivesaltes</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 42.7408333333</string>
+			<key>longitude</key>
+			<string> 2.86972222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFMQ</string>
+		<key>nom</key>
+		<string>LFMQ - Aeroport du Castellet</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.2533333333</string>
+			<key>longitude</key>
+			<string> 5.78722222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFMR</string>
+		<key>nom</key>
+		<string>LFMR - Aeroport de Barcelonnette - Saint-Pons</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.3883333333</string>
+			<key>longitude</key>
+			<string> 6.61027777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFMS</string>
+		<key>nom</key>
+		<string>LFMS - Aerodrome d'Ales Cevennes</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.0736111111</string>
+			<key>longitude</key>
+			<string> 4.14388888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFMT</string>
+		<key>nom</key>
+		<string>LFMT - Aeroport Montpellier Mediterranee</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.5833333333</string>
+			<key>longitude</key>
+			<string> 3.96138888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFMU</string>
+		<key>nom</key>
+		<string>LFMU - Aeroport de Beziers - Cap d'Agde en Languedoc</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.3233333333</string>
+			<key>longitude</key>
+			<string> 3.35333333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFMV</string>
+		<key>nom</key>
+		<string>LFMV - Aeroport d'Avignon - Caumont</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.9066666667</string>
+			<key>longitude</key>
+			<string> 4.90194444444</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFMW</string>
+		<key>nom</key>
+		<string>LFMW - Aeroport de Castelnaudary - Villeneuve</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.3122222222</string>
+			<key>longitude</key>
+			<string> 1.92111111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFMX</string>
+		<key>nom</key>
+		<string>LFMX - Aeroport de Chateau Arnoux Saint-Auban</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.06</string>
+			<key>longitude</key>
+			<string> 5.99138888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFMY</string>
+		<key>nom</key>
+		<string>LFMY - Base aerienne 701 de Salon de Provence</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.6027777778</string>
+			<key>longitude</key>
+			<string> 5.10805555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFMZ</string>
+		<key>nom</key>
+		<string>LFMZ - Aerodrome de Lezignan Corbieres</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.1758333333</string>
+			<key>longitude</key>
+			<string> 2.73361111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFNA</string>
+		<key>nom</key>
+		<string>LFNA - Aerodrome de Gap - Tallard</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.455</string>
+			<key>longitude</key>
+			<string> 6.03777777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFNB</string>
+		<key>nom</key>
+		<string>LFNB - Aerodrome de Mende - Brenoux</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.5041666667</string>
+			<key>longitude</key>
+			<string> 3.5275</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFNC</string>
+		<key>nom</key>
+		<string>LFNC - Aeroport de Mont-Dauphin - Saint-Crepin</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.7016666667</string>
+			<key>longitude</key>
+			<string> 6.60027777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFND</string>
+		<key>nom</key>
+		<string>LFND - Aeroport de Pont - Saint - Esprit</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 0.0</string>
+			<key>longitude</key>
+			<string> 0.0</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFNE</string>
+		<key>nom</key>
+		<string>LFNE - Aerodrome de Salon - Eyguieres</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.6583333333</string>
+			<key>longitude</key>
+			<string> 5.01361111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFNF</string>
+		<key>nom</key>
+		<string>LFNF - Aeroport de Vinon</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.7377777778</string>
+			<key>longitude</key>
+			<string> 5.78416666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFNG</string>
+		<key>nom</key>
+		<string>LFNG - Aeroport de Montpellier - Candillargues</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.6102777778</string>
+			<key>longitude</key>
+			<string> 4.07027777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFNH</string>
+		<key>nom</key>
+		<string>LFNH - Aerodrome de Carpentras</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.0233333333</string>
+			<key>longitude</key>
+			<string> 5.09083333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFNJ</string>
+		<key>nom</key>
+		<string>LFNJ - Aerodrome d'Aspres sur Buech</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.5188888889</string>
+			<key>longitude</key>
+			<string> 5.7375</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFNL</string>
+		<key>nom</key>
+		<string>LFNL - Aerodrome de Saint-Martin de Londres</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.8008333333</string>
+			<key>longitude</key>
+			<string> 3.7825</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFNN</string>
+		<key>nom</key>
+		<string>LFNN - Aerodrome de Narbonne</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.1941666667</string>
+			<key>longitude</key>
+			<string> 3.05166666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFNO</string>
+		<key>nom</key>
+		<string>LFNO - Aerodrome de Florac - Sainte-Enimie</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.2863888889</string>
+			<key>longitude</key>
+			<string> 3.46666666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFNP</string>
+		<key>nom</key>
+		<string>LFNP - Aerodrome de Pezenas - Nizas</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.5058333333</string>
+			<key>longitude</key>
+			<string> 3.41361111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFNQ</string>
+		<key>nom</key>
+		<string>LFNQ - Aerodrome de Mont-Louis La Quillane</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 42.5436111111</string>
+			<key>longitude</key>
+			<string> 2.12</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFNR</string>
+		<key>nom</key>
+		<string>LFNR - Aerodrome de Berre - La Fare</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.5377777778</string>
+			<key>longitude</key>
+			<string> 5.17833333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFNS</string>
+		<key>nom</key>
+		<string>LFNS - Aerodrome de Sisteron Theze</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.2875</string>
+			<key>longitude</key>
+			<string> 5.93027777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFNT</string>
+		<key>nom</key>
+		<string>LFNT - Aerodrome d'Avignon - Pujaut</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.9969444444</string>
+			<key>longitude</key>
+			<string> 4.75555555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFNU</string>
+		<key>nom</key>
+		<string>LFNU - Aerodrome d'Uzes</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.0847222222</string>
+			<key>longitude</key>
+			<string> 4.39527777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFNV</string>
+		<key>nom</key>
+		<string>LFNV - Aerodrome de Valreas - Visan</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.3369444444</string>
+			<key>longitude</key>
+			<string> 4.90805555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFNW</string>
+		<key>nom</key>
+		<string>LFNW - Aerodrome de Puivert</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 42.9113888889</string>
+			<key>longitude</key>
+			<string> 2.05611111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFNX</string>
+		<key>nom</key>
+		<string>LFNX - Aerodrome de Bedarieux - La Tour-sur-Orb</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.6408333333</string>
+			<key>longitude</key>
+			<string> 3.14555555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFNZ</string>
+		<key>nom</key>
+		<string>LFNZ - Aerodrome du Mazet de Romanin</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.7688888889</string>
+			<key>longitude</key>
+			<string> 4.89361111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFOA</string>
+		<key>nom</key>
+		<string>LFOA - Base aerienne 702 d'Avord</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.0566666667</string>
+			<key>longitude</key>
+			<string> 2.63861111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFOB</string>
+		<key>nom</key>
+		<string>LFOB - Aeroport de Beauvais Tille</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.4544444444</string>
+			<key>longitude</key>
+			<string> 2.11277777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFOC</string>
+		<key>nom</key>
+		<string>LFOC - Aeroport de Chateaudun</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.0577777778</string>
+			<key>longitude</key>
+			<string> 1.37944444444</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFOD</string>
+		<key>nom</key>
+		<string>LFOD - Aerodrome de Saumur Saint-Florent</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.2566666667</string>
+			<key>longitude</key>
+			<string> 0.113611111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFOE</string>
+		<key>nom</key>
+		<string>LFOE - Base aerienne 105 d'evreux - Fauville</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.0286111111</string>
+			<key>longitude</key>
+			<string> 1.22</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFOF</string>
+		<key>nom</key>
+		<string>LFOF - Aeroport d'Alencon - Valframbert</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.4475</string>
+			<key>longitude</key>
+			<string> 0.109166666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFOG</string>
+		<key>nom</key>
+		<string>LFOG - Aeroport de Flers - Saint-Paul</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.7525</string>
+			<key>longitude</key>
+			<string> 0.589444444444</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFOH</string>
+		<key>nom</key>
+		<string>LFOH - Aeroport du Havre - Octeville</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.5338888889</string>
+			<key>longitude</key>
+			<string> 0.0880555555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFOI</string>
+		<key>nom</key>
+		<string>LFOI - Aeroport d'Abbeville</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 50.1430555556</string>
+			<key>longitude</key>
+			<string> 1.8325</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFOJ</string>
+		<key>nom</key>
+		<string>LFOJ - Base aerienne 123 d'Orleans - Bricy</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.9877777778</string>
+			<key>longitude</key>
+			<string> 1.76055555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFOK</string>
+		<key>nom</key>
+		<string>LFOK - Aeroport de Paris Vatry</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.7733333333</string>
+			<key>longitude</key>
+			<string> 4.20611111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFOL</string>
+		<key>nom</key>
+		<string>LFOL - Aeroport de L'Aigle - Saint-Michel</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.7597222222</string>
+			<key>longitude</key>
+			<string> 0.659166666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFOM</string>
+		<key>nom</key>
+		<string>LFOM - Aeroport de Lessay</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.2030555556</string>
+			<key>longitude</key>
+			<string> 1.50666666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFON</string>
+		<key>nom</key>
+		<string>LFON - Aerodrome de Dreux Vernouillet</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.7066666667</string>
+			<key>longitude</key>
+			<string> 1.36277777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFOO</string>
+		<key>nom</key>
+		<string>LFOO - Aeroport Les sables - Talmont</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.4769444444</string>
+			<key>longitude</key>
+			<string> 1.72277777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFOP</string>
+		<key>nom</key>
+		<string>LFOP - Aeroport Rouen Vallee de Seine</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.3908333333</string>
+			<key>longitude</key>
+			<string> 1.18388888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFOQ</string>
+		<key>nom</key>
+		<string>LFOQ - Aeroport de Blois - Le Breuil</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.6797222222</string>
+			<key>longitude</key>
+			<string> 1.20583333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFOR</string>
+		<key>nom</key>
+		<string>LFOR - Aeroport de Chartres - Champhol</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.4588888889</string>
+			<key>longitude</key>
+			<string> 1.52388888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFOS</string>
+		<key>nom</key>
+		<string>LFOS - Aeroport de Saint-Valery - Vittefleur</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.8361111111</string>
+			<key>longitude</key>
+			<string> 0.655</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFOT</string>
+		<key>nom</key>
+		<string>LFOT - Aeroport de Tours Val de Loire</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.4319444444</string>
+			<key>longitude</key>
+			<string> 0.723055555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFOU</string>
+		<key>nom</key>
+		<string>LFOU - Aerodrome de Cholet Le Pontreau</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.0819444444</string>
+			<key>longitude</key>
+			<string> 0.877222222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFOV</string>
+		<key>nom</key>
+		<string>LFOV - Aeroport de Laval - Entrammes</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.0322222222</string>
+			<key>longitude</key>
+			<string> 0.742777777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFOW</string>
+		<key>nom</key>
+		<string>LFOW - Aerodrome de Saint-Quentin - Roupy</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.8169444444</string>
+			<key>longitude</key>
+			<string> 3.20666666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFOX</string>
+		<key>nom</key>
+		<string>LFOX - Aeroport d'etampes Mondesir</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.3819444444</string>
+			<key>longitude</key>
+			<string> 2.07527777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFOY</string>
+		<key>nom</key>
+		<string>LFOY - Aeroport du Havre - Saint-Romain</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.5438888889</string>
+			<key>longitude</key>
+			<string> 0.359722222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFOZ</string>
+		<key>nom</key>
+		<string>LFOZ - Aeroport d'Orleans - Saint-Denis de l'Hotel</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.8975</string>
+			<key>longitude</key>
+			<string> 2.16416666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFPA</string>
+		<key>nom</key>
+		<string>LFPA - Aeroport de Persan - Beaumont</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.1658333333</string>
+			<key>longitude</key>
+			<string> 2.31305555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFPB</string>
+		<key>nom</key>
+		<string>LFPB - Aeroport Paris - Le Bourget</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.9694444444</string>
+			<key>longitude</key>
+			<string> 2.44138888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFPC</string>
+		<key>nom</key>
+		<string>LFPC - Base aerienne 110 de Creil</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.2508333333</string>
+			<key>longitude</key>
+			<string> 2.52166666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFPD</string>
+		<key>nom</key>
+		<string>LFPD - Aeroport de Bernay - Saint-Martin</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.1027777778</string>
+			<key>longitude</key>
+			<string> 0.566666666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFPE</string>
+		<key>nom</key>
+		<string>LFPE - Aeroport de Meaux - Esbly</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.9277777778</string>
+			<key>longitude</key>
+			<string> 2.83527777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFPF</string>
+		<key>nom</key>
+		<string>LFPF - Aerodrome de Beynes - Thiverval</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.8436111111</string>
+			<key>longitude</key>
+			<string> 1.90888888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFPG</string>
+		<key>nom</key>
+		<string>LFPG - Aeroport de Paris Charles de Gaulle</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.0097222222</string>
+			<key>longitude</key>
+			<string> 2.54777777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFPH</string>
+		<key>nom</key>
+		<string>LFPH - Aeroport de Chelles le Pin</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.8977777778</string>
+			<key>longitude</key>
+			<string> 2.6075</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFPI</string>
+		<key>nom</key>
+		<string>LFPI - Heliport de Paris - Issy-les-Moulineaux</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.8333333333</string>
+			<key>longitude</key>
+			<string> 2.27277777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFPK</string>
+		<key>nom</key>
+		<string>LFPK - Aeroport de Coulommiers - Voisins</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.8377777778</string>
+			<key>longitude</key>
+			<string> 3.01527777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFPL</string>
+		<key>nom</key>
+		<string>LFPL - Aeroport de Lognes - emerainville</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.8230555556</string>
+			<key>longitude</key>
+			<string> 2.62388888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFPM</string>
+		<key>nom</key>
+		<string>LFPM - Base aerienne de Melun - Villaroche</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.6052777778</string>
+			<key>longitude</key>
+			<string> 2.67083333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFPN</string>
+		<key>nom</key>
+		<string>LFPN - Aeroport de Toussus le Noble</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.7497222222</string>
+			<key>longitude</key>
+			<string> 2.11111111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFPO</string>
+		<key>nom</key>
+		<string>LFPO - Aeroport Paris - Orly</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.7233333333</string>
+			<key>longitude</key>
+			<string> 2.37944444444</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFPP</string>
+		<key>nom</key>
+		<string>LFPP - Aeroport du Plessis - Belleville</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.11</string>
+			<key>longitude</key>
+			<string> 2.73805555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFPQ</string>
+		<key>nom</key>
+		<string>LFPQ - Aeroport de Fontenay - Tresigny</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.7072222222</string>
+			<key>longitude</key>
+			<string> 2.90444444444</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFPT</string>
+		<key>nom</key>
+		<string>LFPT - Aeroport de Pontoise - Cormeilles-en-Vexin</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.0966666667</string>
+			<key>longitude</key>
+			<string> 2.04083333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFPU</string>
+		<key>nom</key>
+		<string>LFPU - Aerodrome de Moret - episy</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.3419444444</string>
+			<key>longitude</key>
+			<string> 2.79944444444</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFPV</string>
+		<key>nom</key>
+		<string>LFPV - Base aerienne 107 de Velizy Villacoublay</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.7741666667</string>
+			<key>longitude</key>
+			<string> 2.19166666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFPX</string>
+		<key>nom</key>
+		<string>LFPX - Aerodrome de Chavenay - Villepreux</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.8436111111</string>
+			<key>longitude</key>
+			<string> 1.98222222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFPY</string>
+		<key>nom</key>
+		<string>LFPY - Base aerienne 217 de Bretigny sur Orge</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.5961111111</string>
+			<key>longitude</key>
+			<string> 2.33222222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFPZ</string>
+		<key>nom</key>
+		<string>LFPZ - Aerodrome de Saint-Cyr l'ecole</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.8113888889</string>
+			<key>longitude</key>
+			<string> 2.07472222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFQA</string>
+		<key>nom</key>
+		<string>LFQA - Aeroport de Reims - Prunay</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.2086111111</string>
+			<key>longitude</key>
+			<string> 4.15666666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFQB</string>
+		<key>nom</key>
+		<string>LFQB - Aeroport de Troyes - Barberey</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.3216666667</string>
+			<key>longitude</key>
+			<string> 4.01666666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFQC</string>
+		<key>nom</key>
+		<string>LFQC - Aeroport de Luneville - Croismare</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.5947222222</string>
+			<key>longitude</key>
+			<string> 6.54333333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFQD</string>
+		<key>nom</key>
+		<string>LFQD - Aeroport d'Arras - Roclincourt</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 50.3247222222</string>
+			<key>longitude</key>
+			<string> 2.80416666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFQE</string>
+		<key>nom</key>
+		<string>LFQE - Base aerienne d'etain - Rouvres</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.2291666667</string>
+			<key>longitude</key>
+			<string> 5.68027777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFQF</string>
+		<key>nom</key>
+		<string>LFQF - Aeroport d'Autun Bellevue</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.9725</string>
+			<key>longitude</key>
+			<string> 4.26222222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFQG</string>
+		<key>nom</key>
+		<string>LFQG - Aeroport de Nevers - Fourchambault</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.0036111111</string>
+			<key>longitude</key>
+			<string> 3.11083333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFQH</string>
+		<key>nom</key>
+		<string>LFQH - Aeroport de Chatillon Sur Seine</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.8463888889</string>
+			<key>longitude</key>
+			<string> 4.58055555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFQI</string>
+		<key>nom</key>
+		<string>LFQI - Base aerienne 103 de Cambrai - epinoy</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 50.2188888889</string>
+			<key>longitude</key>
+			<string> 3.15194444444</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFQJ</string>
+		<key>nom</key>
+		<string>LFQJ - Aeroport de Maubeuge - elesmes</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 50.3091666667</string>
+			<key>longitude</key>
+			<string> 4.03138888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFQK</string>
+		<key>nom</key>
+		<string>LFQK - Aeroport de Chalons - ecury-sur-Coole</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.9061111111</string>
+			<key>longitude</key>
+			<string> 4.35416666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFQL</string>
+		<key>nom</key>
+		<string>LFQL - Aeroport de Lens - Benifontaine</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 50.4672222222</string>
+			<key>longitude</key>
+			<string> 2.82194444444</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFQM</string>
+		<key>nom</key>
+		<string>LFQM - Aeroport de Besancon - La Veze</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.2052777778</string>
+			<key>longitude</key>
+			<string> 6.08055555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFQN</string>
+		<key>nom</key>
+		<string>LFQN - Aeroport de Saint-Omer - Wizernes</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 50.7294444444</string>
+			<key>longitude</key>
+			<string> 2.23583333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFQO</string>
+		<key>nom</key>
+		<string>LFQO - Aeroport de Lille - Marcq-en-Baroeul</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 50.6880555556</string>
+			<key>longitude</key>
+			<string> 3.07666666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFQP</string>
+		<key>nom</key>
+		<string>LFQP - Base aerienne de Phalsbourg - Bourscheid</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.7727777778</string>
+			<key>longitude</key>
+			<string> 7.215</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFQQ</string>
+		<key>nom</key>
+		<string>LFQQ - Aeroport de Lille - Lesquin</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 50.5633333333</string>
+			<key>longitude</key>
+			<string> 3.08694444444</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFQR</string>
+		<key>nom</key>
+		<string>LFQR - Aeroport de Romilly sur Seine</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 0.0</string>
+			<key>longitude</key>
+			<string> 0.0</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFQS</string>
+		<key>nom</key>
+		<string>LFQS - Aeroport de Vitry en Artois</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 50.3383333333</string>
+			<key>longitude</key>
+			<string> 2.99333333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFQT</string>
+		<key>nom</key>
+		<string>LFQT - Aeroport de Merville - Calonne</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 50.6166666667</string>
+			<key>longitude</key>
+			<string> 2.64</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFQU</string>
+		<key>nom</key>
+		<string>LFQU - Aerodrome de Sarre Union</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.9513888889</string>
+			<key>longitude</key>
+			<string> 7.07777777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFQV</string>
+		<key>nom</key>
+		<string>LFQV - Aeroport de Charleville-Mezieres - Belval</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.7858333333</string>
+			<key>longitude</key>
+			<string> 4.64416666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFQW</string>
+		<key>nom</key>
+		<string>LFQW - Aeroport de Vesoul - Frotey</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.6394444444</string>
+			<key>longitude</key>
+			<string> 6.20527777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFQX</string>
+		<key>nom</key>
+		<string>LFQX - Aerodrome de Juvancourt</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.115</string>
+			<key>longitude</key>
+			<string> 4.82083333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFQY</string>
+		<key>nom</key>
+		<string>LFQY - Aerodrome de Saverne - Steinbourg</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.7541666667</string>
+			<key>longitude</key>
+			<string> 7.42638888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFQZ</string>
+		<key>nom</key>
+		<string>LFQZ - Aerodrome de Dieuze - Gueblange</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.7752777778</string>
+			<key>longitude</key>
+			<string> 6.71527777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFRA</string>
+		<key>nom</key>
+		<string>LFRA - Aerodrome d'Angers - Avrille</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 0.0</string>
+			<key>longitude</key>
+			<string> 0.0</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFRB</string>
+		<key>nom</key>
+		<string>LFRB - Aeroport de Brest Bretagne</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.4472222222</string>
+			<key>longitude</key>
+			<string> 4.42166666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFRC</string>
+		<key>nom</key>
+		<string>LFRC - Aeroport de Cherbourg - Maupertus</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.6508333333</string>
+			<key>longitude</key>
+			<string> 1.47527777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFRD</string>
+		<key>nom</key>
+		<string>LFRD - Aeroport de Dinard Pleurtuit Saint-Malo</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.5877777778</string>
+			<key>longitude</key>
+			<string> 2.08</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFRE</string>
+		<key>nom</key>
+		<string>LFRE - Aeroport de La Baule Escoublac</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.2894444444</string>
+			<key>longitude</key>
+			<string> 2.34638888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFRF</string>
+		<key>nom</key>
+		<string>LFRF - Aeroport de Granville Mont Saint-Michel</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.8827777778</string>
+			<key>longitude</key>
+			<string> 1.56388888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFRG</string>
+		<key>nom</key>
+		<string>LFRG - Aeroport de Deauville - Saint-Gatien</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.3633333333</string>
+			<key>longitude</key>
+			<string> 0.16</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFRH</string>
+		<key>nom</key>
+		<string>LFRH - Aeroport de Lorient Bretagne Sud</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.7605555556</string>
+			<key>longitude</key>
+			<string> 3.44</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFRI</string>
+		<key>nom</key>
+		<string>LFRI - Aeroport de La Roche-sur-Yon - Les Ajoncs</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.7025</string>
+			<key>longitude</key>
+			<string> 1.38166666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFRJ</string>
+		<key>nom</key>
+		<string>LFRJ - Base d'aeronautique navale de Landivisiau</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.53</string>
+			<key>longitude</key>
+			<string> 4.15166666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFRK</string>
+		<key>nom</key>
+		<string>LFRK - Aeroport de Caen - Carpiquet</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.1733333333</string>
+			<key>longitude</key>
+			<string> 0.45</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFRL</string>
+		<key>nom</key>
+		<string>LFRL - Base d'aeronautique navale de Lanveoc - Poulmic</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.2816666667</string>
+			<key>longitude</key>
+			<string> 4.44583333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFRM</string>
+		<key>nom</key>
+		<string>LFRM - Aeroport du Mans - Arnage</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.9486111111</string>
+			<key>longitude</key>
+			<string> 0.201666666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFRN</string>
+		<key>nom</key>
+		<string>LFRN - Aeroport de Rennes - Saint-Jacques</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.0719444444</string>
+			<key>longitude</key>
+			<string> 1.73222222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFRO</string>
+		<key>nom</key>
+		<string>LFRO - Aeroport de Lannion</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.755</string>
+			<key>longitude</key>
+			<string> 3.47444444444</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFRP</string>
+		<key>nom</key>
+		<string>LFRP - Aeroport de Ploermel - Loyat</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.0027777778</string>
+			<key>longitude</key>
+			<string> 2.37722222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFRQ</string>
+		<key>nom</key>
+		<string>LFRQ - Aeroport de Quimper Cornouaille</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.975</string>
+			<key>longitude</key>
+			<string> 4.16777777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFRS</string>
+		<key>nom</key>
+		<string>LFRS - Aeroport Nantes Atlantique</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.1569444444</string>
+			<key>longitude</key>
+			<string> 1.60777777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFRT</string>
+		<key>nom</key>
+		<string>LFRT - Aeroport de Saint-Brieuc Armor</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.5375</string>
+			<key>longitude</key>
+			<string> 2.85666666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFRU</string>
+		<key>nom</key>
+		<string>LFRU - Aeroport de Morlaix Ploujean</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.6008333333</string>
+			<key>longitude</key>
+			<string> 3.81666666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFRV</string>
+		<key>nom</key>
+		<string>LFRV - Aeroport de Vannes - Meucon</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.7191666667</string>
+			<key>longitude</key>
+			<string> 2.72333333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFRW</string>
+		<key>nom</key>
+		<string>LFRW - Aerodrome d'Avranches - Le Val Saint-Pere</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.6616666667</string>
+			<key>longitude</key>
+			<string> 1.40444444444</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFRZ</string>
+		<key>nom</key>
+		<string>LFRZ - Aeroport de Saint-Nazaire - Montoir</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.3105555556</string>
+			<key>longitude</key>
+			<string> 2.15666666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFSA</string>
+		<key>nom</key>
+		<string>LFSA - Aeroport de Besancon - Thise</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.2747222222</string>
+			<key>longitude</key>
+			<string> 6.08416666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFSB</string>
+		<key>nom</key>
+		<string>LFSB - Aeroport international Basel Mulhouse Freiburg</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.59</string>
+			<key>longitude</key>
+			<string> 7.52916666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFSD</string>
+		<key>nom</key>
+		<string>LFSD - Aeroport de Dijon Bourgogne - Longvic</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.2658333333</string>
+			<key>longitude</key>
+			<string> 5.095</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFSE</string>
+		<key>nom</key>
+		<string>LFSE - Aerodrome Epinal - Dogneville</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.2119444444</string>
+			<key>longitude</key>
+			<string> 6.44916666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFSF</string>
+		<key>nom</key>
+		<string>LFSF - Base aerienne 128 de Metz Frescaty</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.0763888889</string>
+			<key>longitude</key>
+			<string> 6.13388888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFSG</string>
+		<key>nom</key>
+		<string>LFSG - Aeroport d'epinal - Mirecourt</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.325</string>
+			<key>longitude</key>
+			<string> 6.06666666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFSH</string>
+		<key>nom</key>
+		<string>LFSH - Aerodrome d'Haguenau</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.7977777778</string>
+			<key>longitude</key>
+			<string> 7.82027777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFSI</string>
+		<key>nom</key>
+		<string>LFSI - Base aerienne 113 de Saint-Dizier - Robinson</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.6333333333</string>
+			<key>longitude</key>
+			<string> 4.90805555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFSJ</string>
+		<key>nom</key>
+		<string>LFSJ - Aeroport de Sedan - Douzy</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.6597222222</string>
+			<key>longitude</key>
+			<string> 5.03777777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFSK</string>
+		<key>nom</key>
+		<string>LFSK - Aeroport de Vitry-le-Francois - Vauclerc</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.7033333333</string>
+			<key>longitude</key>
+			<string> 4.68444444444</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFSL</string>
+		<key>nom</key>
+		<string>LFSL - Aeroport de Brive Vallee de la Dordogne</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.0397222222</string>
+			<key>longitude</key>
+			<string> 1.48555555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFSM</string>
+		<key>nom</key>
+		<string>LFSM - Aeroport de Montbeliard - Courcelles</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.4866666667</string>
+			<key>longitude</key>
+			<string> 6.79138888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFSN</string>
+		<key>nom</key>
+		<string>LFSN - Aeroport de Nancy - Essey</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.6922222222</string>
+			<key>longitude</key>
+			<string> 6.22611111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFSO</string>
+		<key>nom</key>
+		<string>LFSO - Base aerienne 133 de Nancy - Ochey</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.5833333333</string>
+			<key>longitude</key>
+			<string> 5.955</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFSP</string>
+		<key>nom</key>
+		<string>LFSP - Aerodrome de Pontarlier</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 46.9094444444</string>
+			<key>longitude</key>
+			<string> 6.33</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFSR</string>
+		<key>nom</key>
+		<string>LFSR - Aeroport de Reims Champagne</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 0.0</string>
+			<key>longitude</key>
+			<string> 0.0</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFST</string>
+		<key>nom</key>
+		<string>LFST - Aeroport de Strasbourg Entzheim</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.5405555556</string>
+			<key>longitude</key>
+			<string> 7.63277777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFSU</string>
+		<key>nom</key>
+		<string>LFSU - Aeroport de Langres - Rolampont</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.9655555556</string>
+			<key>longitude</key>
+			<string> 5.295</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFSV</string>
+		<key>nom</key>
+		<string>LFSV - Aerodrome de Pont Saint-Vincent</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.6</string>
+			<key>longitude</key>
+			<string> 6.04972222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFSW</string>
+		<key>nom</key>
+		<string>LFSW - Aeroport d'epernay - Plivot</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 49.0052777778</string>
+			<key>longitude</key>
+			<string> 4.08694444444</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFSX</string>
+		<key>nom</key>
+		<string>LFSX - Base aerienne 116 de Luxeuil - Saint-Sauveur</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.7861111111</string>
+			<key>longitude</key>
+			<string> 6.36444444444</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFSZ</string>
+		<key>nom</key>
+		<string>LFSZ - Aeroport de Vittel Champ de courses</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 0.0</string>
+			<key>longitude</key>
+			<string> 0.0</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFTF</string>
+		<key>nom</key>
+		<string>LFTF - Aeroport de Cuers - Pierrefeu</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.2475</string>
+			<key>longitude</key>
+			<string> 6.12722222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFTH</string>
+		<key>nom</key>
+		<string>LFTH - Aeroport de Toulon - Hyeres - Le Palyvestre</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.0972222222</string>
+			<key>longitude</key>
+			<string> 6.14611111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFTL</string>
+		<key>nom</key>
+		<string>LFTL - Heliport de Cannes - Quai du large</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 0.0</string>
+			<key>longitude</key>
+			<string> 0.0</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFTM</string>
+		<key>nom</key>
+		<string>LFTM - Aerodrome de Serres - La Batie-Montsaleon</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.4583333333</string>
+			<key>longitude</key>
+			<string> 5.72833333333</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFTN</string>
+		<key>nom</key>
+		<string>LFTN - Aerodrome de La Grand'Combe</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 44.2444444444</string>
+			<key>longitude</key>
+			<string> 4.01222222222</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFTP</string>
+		<key>nom</key>
+		<string>LFTP - Aerodrome de Puimoisson</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.8688888889</string>
+			<key>longitude</key>
+			<string> 6.16277777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFTQ</string>
+		<key>nom</key>
+		<string>LFTQ - Aerodrome de Chateaubriant - Pouance</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.7405555556</string>
+			<key>longitude</key>
+			<string> 1.18805555556</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFTW</string>
+		<key>nom</key>
+		<string>LFTW - Aeroport de NImes - Garons</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.7575</string>
+			<key>longitude</key>
+			<string> 4.41638888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFTZ</string>
+		<key>nom</key>
+		<string>LFTZ - Aeroport de La Mole - Saint-Tropez</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 43.2063888889</string>
+			<key>longitude</key>
+			<string> 6.4825</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFXA</string>
+		<key>nom</key>
+		<string>LFXA - Aerodrome d'Amberieu</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.9797222222</string>
+			<key>longitude</key>
+			<string> 5.33777777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFXB</string>
+		<key>nom</key>
+		<string>LFXB - Aeroport de Saintes - Thenac</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 45.7019444444</string>
+			<key>longitude</key>
+			<string> 0.636111111111</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFXI</string>
+		<key>nom</key>
+		<string>LFXI - Base aerienne 200 Apt - Saint-Christol</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 0.0</string>
+			<key>longitude</key>
+			<string> 0.0</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFXM</string>
+		<key>nom</key>
+		<string>LFXM - Aerodrome de Mourmelon</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 0.0</string>
+			<key>longitude</key>
+			<string> 0.0</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFXU</string>
+		<key>nom</key>
+		<string>LFXU - Aeroport des Mureaux</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.9983333333</string>
+			<key>longitude</key>
+			<string> 1.94277777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFYD</string>
+		<key>nom</key>
+		<string>LFYD - Aeroport de Damblain</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 48.0833333333</string>
+			<key>longitude</key>
+			<string> 5.66666666667</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFYG</string>
+		<key>nom</key>
+		<string>LFYG - Aerodrome de Cambrai - Niergnies</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 50.1425</string>
+			<key>longitude</key>
+			<string> 3.265</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFYH</string>
+		<key>nom</key>
+		<string>LFYH - Aeroport de Broyes les Pesmes</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 0.0</string>
+			<key>longitude</key>
+			<string> 0.0</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFYM</string>
+		<key>nom</key>
+		<string>LFYM - Aeroport de Marigny Le Grand</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 0.0</string>
+			<key>longitude</key>
+			<string> 0.0</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFYR</string>
+		<key>nom</key>
+		<string>LFYR - Aeroport de Romorantin - Pruniers</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 47.3208333333</string>
+			<key>longitude</key>
+			<string> 1.68888888889</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFYS</string>
+		<key>nom</key>
+		<string>LFYS - Aerodrome de Sainte-Leocadie</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 42.4466666667</string>
+			<key>longitude</key>
+			<string> 2.01027777778</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>icao</key>
+		<string>LFYT</string>
+		<key>nom</key>
+		<string>LFYT - Base aerienne de Saint-Simon - Clastres</string>
+		<key>position</key>
+		<dict>
+			<key>latitude</key>
+			<string> 0.0</string>
+			<key>longitude</key>
+			<string> 0.0</string>
+		</dict>
+	</dict>
+</array>
+</plist>
